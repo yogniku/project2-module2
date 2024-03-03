@@ -1,0 +1,38 @@
+body{
+    margin: 0%;
+    padding: 0%;
+
+}
+.container{
+    max-width: 450px;
+    min-height: 260px;
+    background-color: rgb(170, 189, 207);
+    margin: auto;
+    margin-top: 200px;
+    box-sizing: border-box;
+    padding-left: 30px;
+    padding-top: 20px;
+    position: relative  
+}
+input{
+    width: 90%;
+    border: 1px solid  #252020;
+    padding-top:5%;
+    margin: 3%;
+ 
+}
+
+
+label{
+    font: weight 400px;
+}
+h1{
+    text-align: center;
+}
+
+    .error {
+      color: red;
+    }
+    .success {
+      color: green;
+    }
